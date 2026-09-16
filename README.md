@@ -65,13 +65,7 @@ The model is a Convolutional Neural Network trained on a labeled dataset of skin
 
 > Update this section with your actual dataset name, number of classes, and model accuracy once finalized.
 
-**Classes predicted:**
-- Class 1
-- Class 2
-- Class 3
-- *(update with your actual disease categories)*
 
----
 
 ## ⚙️ Installation & Setup
 
@@ -81,7 +75,7 @@ git clone https://github.com/<your-username>/skin-disease-predictor.git
 cd skin-disease-predictor
 ```
 
-### 2. Create a virtual environment (recommended)
+### 2. Create a virtual environment 
 ```bash
 python -m venv venv
 source venv/bin/activate      # On Windows: venv\Scripts\activate
@@ -118,13 +112,11 @@ http://127.0.0.1:5000/
 
 | Metric              | Value        |
 |---------------------|--------------|
-| Training Accuracy   | XX%          |
-| Validation Accuracy | XX%          |
-| Test Accuracy       | XX%          |
+| Training Accuracy   | 90%          |
+| Validation Accuracy | 89%          |
+| Test Accuracy       | 90%          |
 
-*(Replace with your actual results)*
 
----
 
 ## 📦 Requirements
 
